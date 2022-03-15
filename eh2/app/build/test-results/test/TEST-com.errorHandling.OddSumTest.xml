@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.errorHandling.OddSumTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-03-15T13:59:32" hostname="BE1GJ599" time="1.214">
+  <properties/>
+  <testcase name="testException()" classname="com.errorHandling.OddSumTest" time="1.11"/>
+  <testcase name="testOdds1()" classname="com.errorHandling.OddSumTest" time="0.002"/>
+  <testcase name="testOdds2()" classname="com.errorHandling.OddSumTest" time="0.002"/>
+  <testcase name="testTrue()" classname="com.errorHandling.OddSumTest" time="0.094"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Input is not an Integer!
+]]></system-err>
+</testsuite>
